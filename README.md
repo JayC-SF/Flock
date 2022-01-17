@@ -1,10 +1,18 @@
-# FlockingProject_Daniel_Juan-Carlos
+
+## Intro
+This is a school project. Some guidelines were given in order to accomplish it.
+
+Note that some methods use to implement were not the most efficient due to some requirements requested by the teacher to implement various design patterns.
+
+Thank you,
+
 # Flocking Algorithm Adaptation
+
 
 For the sake of providing a more "natural" behavior of the flocks and the raven, we decided to add more features and change some components of the algorithm. Neither the design or structure of the algorithm was changed as certain behavior required extra attention to detail to provide a more natural look.
 
 ## Adaptations 
-### `Worls.cs` 
+### `World.cs` 
 Some new variables in `World.cs` were added in order to provide more speicifications for the behaviour.
 The `FleeRadius` and `ChasingRadius` public static getter properties have been created 
 ```csharp
