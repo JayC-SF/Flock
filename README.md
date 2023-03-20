@@ -8,5 +8,5 @@ Please find the zip file `FlockingAlgorithm.zip` to download the app on Windows!
 
 Enjoy! 
 
-<img src="./images/Flock.gif"></img>
+<img alt="GIF Picture of Flocks, Please wait for the picutre to load if it can not be seen" src="./images/Flock.gif"></img>
 
