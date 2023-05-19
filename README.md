@@ -2,7 +2,7 @@
 ## Intro (Please wait for the image to load)
 This is a school project.
 
-Note that some methods use to implement were not the most efficient due to some requirements requested by the teacher to implement various design patterns.
+The algorithm used to implement this program simulation is called the Boids algorithm.
 
 Please find the zip file `FlockingAlgorithm.zip` to download the app on Windows!
 
